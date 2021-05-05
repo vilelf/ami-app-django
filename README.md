@@ -1,1 +1,1 @@
-# iac-django
+# ami-app-django
